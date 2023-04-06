@@ -1,0 +1,20 @@
+.gameCardContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fff;
+    color: black;
+}
+
+figure {
+    width: 200px;
+    height: 200px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+#title {
+    color: hotpink;
+}
